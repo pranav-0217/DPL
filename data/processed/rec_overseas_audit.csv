@@ -1,0 +1,13 @@
+pid,player,nationality,overseas,metadata_source,role,keeper,seasons,bat_hand,balls,runs,bat_sr,bowl_style,bowl_kind,bowl_balls,wickets,bowl_econ,contribution,share
+277912,Trent Boult,New Zealand,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023/2024,RHB,30,30,100.0,LFM,pace bowler,548,29,8.27,578,28.656420426375806
+308967,Jos Buttler,England,Yes,IPL_Auction_2023_24.xlsx,Wicketkeeper-batter,True,2023/2024,RHB,537,751,139.9,,,0,0,,537,26.623698562221122
+670025,Shimron Hetmyer,West Indies,Yes,IPL_Auction_2023_24.xlsx,Batter,False,2023/2024,LHB,266,412,154.9,,,0,0,,266,13.187902825979178
+391485,Jason Holder,West Indies,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023,RHB,11,12,109.1,RMF,pace bowler,171,4,9.96,182,9.0233019335647
+379504,Adam Zampa,Australia,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023,RHB,16,10,62.5,LBG,spin bowler,132,8,8.55,148,7.337630143777888
+971349,Nandre Burger,South Africa,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2024,,0,0,,LFM,pace bowler,102,7,8.53,102,5.057015369360436
+820351,Rovman Powell,West Indies,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2024,RHB,68,103,151.5,,,0,0,,68,3.371343579573624
+470633,Tom Kohler-Cadmore,England,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,True,2024,RHB,54,48,88.9,,,0,0,,54,2.677243430837878
+267724,Keshav Maharaj,South Africa,Yes,https://www.rajasthanroyals.com/latest-news/keshav-maharaj-replacement-prasidh-krishna-rr-ipl-2024,Fringe / limited appearances,False,2024,RHB,2,1,50.0,SLA,spin bowler,36,2,6.5,38,1.8839861179970252
+303669,Joe Root,England,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,RHB,15,10,66.7,OB,spin bowler,12,0,7.0,27,1.338621715418939
+698315,Donovan Ferreira,South Africa,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,True,2024,RHB,11,8,72.7,,,0,0,,11,0.5453644025780863
+906783,Obed McCoy,West Indies,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,,0,0,,LFM,pace bowler,6,0,13.0,6,0.2974714923153198

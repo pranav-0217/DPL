@@ -1,0 +1,30 @@
+pid,player,nationality,overseas,metadata_source,role,keeper,seasons,bat_hand,balls,runs,bat_sr,bowl_style,bowl_kind,bowl_balls,wickets,bowl_econ
+1151278,Yashasvi Jaiswal,India,No,IPL_Auction_2023_24.xlsx,Batter,False,2023/2024,LHB,661,1060,160.4,,,0,0,
+425943,Sanju Samson,India,No,IPL_Auction_2023_24.xlsx,Wicketkeeper-batter,True,2023/2024,RHB,582,893,153.4,,,0,0,
+308967,Jos Buttler,England,Yes,IPL_Auction_2023_24.xlsx,Wicketkeeper-batter,True,2023/2024,RHB,537,751,139.9,,,0,0,
+1079434,Riyan Parag,India,No,IPL_Auction_2023_24.xlsx,Batter,False,2023/2024,RHB,450,651,144.7,OB/LB,spin bowler,18,0,9.0
+670025,Shimron Hetmyer,West Indies,Yes,IPL_Auction_2023_24.xlsx,Batter,False,2023/2024,LHB,266,412,154.9,,,0,0,
+1175488,Dhruv Jurel,India,No,IPL_Auction_2023_24.xlsx,Wicketkeeper-batter,True,2023/2024,RHB,229,347,151.5,,,0,0,
+1119026,Devdutt Padikkal,India,No,IPL_Auction_2023_24.xlsx,Batter,False,2023,LHB,200,261,130.5,,,0,0,
+26421,Ravichandran Ashwin,India,No,IPL_Auction_2023_24.xlsx,All-rounder,False,2023/2024,RHB,125,153,122.4,OB,spin bowler,624,23,8.03
+820351,Rovman Powell,West Indies,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2024,RHB,68,103,151.5,,,0,0,
+470633,Tom Kohler-Cadmore,England,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,True,2024,RHB,54,48,88.9,,,0,0,
+1125960,Tanush Kotian,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2024,RHB,31,24,77.4,,,0,0,
+277912,Trent Boult,New Zealand,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023/2024,RHB,30,30,100.0,LFM,pace bowler,548,29,8.27
+1252585,Shubham Dubey,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2024,LHB,19,33,173.7,,,0,0,
+379504,Adam Zampa,Australia,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023,RHB,16,10,62.5,LBG,spin bowler,132,8,8.55
+303669,Joe Root,England,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,RHB,15,10,66.7,OB,spin bowler,12,0,7.0
+391485,Jason Holder,West Indies,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2023,RHB,11,12,109.1,RMF,pace bowler,171,4,9.96
+698315,Donovan Ferreira,South Africa,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,True,2024,RHB,11,8,72.7,,,0,0,
+438362,Sandeep Sharma,India,No,IPL_Auction_2023_24.xlsx,Bowler,False,2023/2024,RHB,6,2,33.3,RM,pace bowler,504,23,8.42
+694211,Avesh Khan,India,No,IPL_Auction_2023_24.xlsx,Bowler,False,2024,RHB,5,10,200.0,RFM,pace bowler,329,19,9.59
+1083030,KM Asif,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,RHB,2,0,0.0,RM,pace bowler,84,3,9.86
+267724,Keshav Maharaj,South Africa,Yes,https://www.rajasthanroyals.com/latest-news/keshav-maharaj-replacement-prasidh-krishna-rr-ipl-2024,Fringe / limited appearances,False,2024,RHB,2,1,50.0,SLA,spin bowler,36,2,6.5
+1287067,Abdul Basith,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,RHB,1,1,100.0,,,0,0,
+430246,Yuzvendra Chahal,India,No,IPL_Auction_2023_24.xlsx,Bowler,False,2023/2024,,0,0,,LBG,spin bowler,665,39,8.82
+971349,Nandre Burger,South Africa,Yes,IPL_Auction_2023_24.xlsx,Bowler,False,2024,,0,0,,LFM,pace bowler,102,7,8.53
+1163695,Kuldeep Sen,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023/2024,,0,0,,RF,pace bowler,90,6,10.0
+1206495,Kuldip Yadav,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,,0,0,,LFM,pace bowler,42,2,9.71
+700167,Navdeep Saini,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,,0,0,,RF,pace bowler,36,3,12.33
+528067,Murugan Ashwin,India,No,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,,0,0,,LBG,spin bowler,24,0,13.25
+906783,Obed McCoy,West Indies,Yes,IPL_Auction_2023_24.xlsx,Fringe / limited appearances,False,2023,,0,0,,LFM,pace bowler,6,0,13.0

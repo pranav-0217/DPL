@@ -1,0 +1,48 @@
+year,player,type,country,status,price_cr,deliveries,overseas
+2023,Sanju Samson,WK-Batter,India,Retained,14.0,236,False
+2023,Jos Buttler,WK-Batter,England,Retained,10.0,282,True
+2023,Prasidh Krishna,Bowler,India,Retained,10.0,0,False
+2023,Shimron Hetmyer,Batter,West Indies,Retained,8.5,197,True
+2023,Trent Boult,Bowler,New Zealand,Retained,8.0,242,True
+2023,Devdutt Padikkal,Batter,India,Retained,7.75,200,False
+2023,Yuzvendra Chahal,Bowler,India,Retained,6.5,317,False
+2023,Jason Holder,Allrounder,West Indies,Sold,5.75,182,True
+2023,Ravichandran Ashwin,Allrounder,India,Retained,5.0,345,False
+2023,Yashasvi Jaiswal,Batter,India,Retained,4.0,382,False
+2023,Riyan Parag,Allrounder,India,Retained,3.8,66,False
+2023,Navdeep Saini,Bowler,India,Retained,2.6,36,False
+2023,Adam Zampa,Bowler,Australia,Sold,1.5,148,True
+2023,Joe Root,Batter,England,Sold,1.0,27,True
+2023,Obed McCoy,Bowler,West Indies,Retained,0.75,6,True
+2023,Donovan Ferreira,WK-Batter,South Africa,Sold,0.5,0,True
+2023,KC Cariappa,Bowler,India,Retained,0.3,0,False
+2023,KM Asif,Bowler,India,Sold,0.3,86,False
+2023,Abdul Basith,Allrounder,India,Sold,0.2,1,False
+2023,Akash Vashist,Allrounder,India,Sold,0.2,0,False
+2023,Dhruv Jurel,WK-Batter,India,Retained,0.2,88,False
+2023,Kuldeep Sen,Bowler,India,Retained,0.2,18,False
+2023,Kuldip Yadav,Bowler,India,Retained,0.2,42,False
+2023,Kunal Singh Rathore,WK-Batter,India,Sold,0.2,0,False
+2023,Murugan Ashwin,Bowler,India,Sold,0.2,24,False
+2024,Sanju Samson,WK-Batter,India,Retained,14.0,346,False
+2024,Avesh Khan,Bowler,India,Traded,10.0,334,False
+2024,Jos Buttler,WK-Batter,England,Retained,10.0,255,True
+2024,Prasidh Krishna,Bowler,India,Retained,10.0,0,False
+2024,Shimron Hetmyer,Batter,West Indies,Retained,8.5,69,True
+2024,Trent Boult,Bowler,New Zealand,Retained,8.0,336,True
+2024,Rovman Powell,Batter,West Indies,Sold,7.4,68,True
+2024,Yuzvendra Chahal,Bowler,India,Retained,6.5,348,False
+2024,Shubham Dubey,Batter,India,Sold,5.8,19,False
+2024,Ravichandran Ashwin,Allrounder,India,Retained,5.0,404,False
+2024,Yashasvi Jaiswal,Batter,India,Retained,4.0,279,False
+2024,Riyan Parag,Batter,India,Retained,3.8,402,False
+2024,Navdeep Saini,Bowler,India,Retained,2.6,0,False
+2024,Adam Zampa,Bowler,Australia,Retained,1.5,0,True
+2024,Donovan Ferreira,Allrounder,South Africa,Retained,0.5,11,True
+2024,Nandre Burger,Bowler,South Africa,Sold,0.5,102,True
+2024,Sandeep Sharma,Bowler,India,Retained,0.5,228,False
+2024,Tom Kohler-Cadmore,WK-Batter,England,Sold,0.4,54,True
+2024,Abid Mushtaq,Allrounder,India,Sold,0.2,0,False
+2024,Dhruv Jurel,WK-Batter,India,Retained,0.2,141,False
+2024,Kuldeep Sen,Bowler,India,Retained,0.2,72,False
+2024,Kunal Singh Rathore,WK-Batter,India,Retained,0.2,0,False
